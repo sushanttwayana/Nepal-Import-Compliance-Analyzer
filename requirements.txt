@@ -1,0 +1,10 @@
+# ── Core LLM & agent framework ────────────────────────────────────────────────
+langchain-groq>=0.2.0        # ChatGroq client (Groq API wrapper for LangChain)
+langchain-core>=0.3.0        # Base message types (HumanMessage, SystemMessage)
+langgraph>=0.2.0             # StateGraph workflow orchestration
+
+# ── PDF parsing ───────────────────────────────────────────────────────────────
+pdfplumber>=0.11.4           # Reliable text extraction from PDFs
+
+# ── Environment / utilities ───────────────────────────────────────────────────
+python-dotenv>=1.0.0         # Load variables from .env file

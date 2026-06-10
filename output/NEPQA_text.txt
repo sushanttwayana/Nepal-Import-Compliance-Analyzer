@@ -1,0 +1,1068 @@
+--- Page 1 of 31 ---
+Government of Nepal
+Ministry of Energy, Water Resources and Irrigation
+Alternative Energy Promotion Centre
+NEPAL
+PHOTOVOLTAIC
+QUALITY
+ASSURANCE-2025
+(NEPQA-2025)
+August 2025
+i
+
+--- Page 2 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE-2025 (NEPQA-2025)
+NEPAL PHOTOVOLTAIC QUALITY
+ASSURANCE-2025 (NEPQA-2025)
+Disclaimer
+All rights reserved. No portion of this book may be
+reproduced, duplicated or copied by any means
+without the prior written consent of the
+publisher. No legal responsibility can be accepted
+by the author or publisher for the content that
+appears in this publication.
+Publisher
+Alternative Energy Promotion Centre
+Tahachal, Kathmandu, Nepal
+Phone: +9771-4598013, 4598014
+Email: info@aepc.gov.np
+Website: www.aepc.gov.np
+Copyright
+Alternative Energy Promotion Centre
+Tahachal, Kathmandu, Nepal
+ii
+
+--- Page 3 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE-2025 (NEPQA-2025)
+Preamble
+This technical standard for components of a Solar Photovoltaic (PV) System, called Nepal
+Photovoltaic Quality Assurance (NEPQA), was first developed and adopted by the Alternative
+Energy Promotion Centre/ Energy Sector Assistance Programme (AEPC/ESAP) in December
+2000 for dissemination of Solar Home Systems (SHS) under ESAP and termed as Nepal
+Interim Photovoltaic Quality Assurance (NIPQA). The interim standard was needed due to the
+absence of Nepal Standard (NS) for the components used in PV systems. It was revised for
+the first time in November 2002, the second time in September 2005, the third time in July
+2009 and it has been renamed then after Photovoltaic Quality Assurance (NEPQA) as Nepal,
+the fourth time in 2013, fifth time in 2015 and this is the sixth revision and has been coined as
+Nepal Photovoltaic Quality Assurance-2025 (NEPQA-2025).
+NEPQA specifies the documents and technical requirements of the components used in PV
+applications i. e. Solar Home System (SHS) [>10 Wp to 1000 Wp], Small Solar Home System
+(SSHS) [≤10 Wp] and Institutional PV applications, Institutional pumping PV system etc.
+Based on this document, the Renewable Energy Test Station (RETS) will test and certify the
+quality of the PV systems and components used in PV applications. This document is fully
+owned by AEPC, RETS and the entire PV sector.
+RETS shall conduct two types of tests: Product Introduction Test (PIT) and Random Sampling
+Test (RST). RETS prepares, updates the Test Procedures and Sampling Plan based on its
+existing resources and capacity. The sampling sizes and testing procedures are defined in the
+document Test Procedures and Sampling Plan of RETS.
+Adoption of best available and Innovative technologies will be encouraged and promoted.
+The Renewable Energy Test Station (RETS) is authorized to carry out the quality test of the
+Solar Photovoltaic system and its components and issue the certificate using the Sampling
+Plan and Test Procedures of RETS.
+Relevant definitions are provided in the end of the document.
+VALIDITY OF DOCUMENT
+This document is an amendment of existing NEPQA 2015.rev1 and amendment is made in
+required provision replaces the NEPQA 2015.rev1 as whole and will be effective from its
+approval date and shall remain valid until a new version formally replaces it.
+iii
+
+--- Page 4 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE-2025 (NEPQA-2025)
+List of Abbreviations
+AEPC Alternative Energy Promotion Centre
+AGM Absorbed Glass Material
+BMS Battery Management System
+CC Charge Controller
+CBTL Certification Body Testing Laboratory
+CCT Correlated Color Temperature
+CRI Color Rendering Index
+DC Direct Current
+DoD Depth of Discharge
+FF Fill Factor
+IEC International Electrotechnical Commission
+IECEE IEC System of Conformity Assessment Schemes for Electrotechnical
+Equipment and Components
+IECRE IEC System for Certification to Standards relating to Equipment for use in
+Renewable Energy Applications
+IP Ingress Protection
+ISPS Institutional Solar PV System
+ISO International Organization for Standardization
+HVD High Voltage Disconnect
+LCD Liquid Crystal Display
+LED Light Emitting Diode
+LVD Low Voltage Disconnect
+LVR Low Voltage Reconnect
+MCPCB Metal Core Printed Circuit Board
+MPPT Maximum Power Point Tracker
+NCB National Certification Body
+NEPQA Nepal Photovoltaic Quality Assurance
+NS Nepal Standard
+iv
+
+--- Page 5 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE-2025 (NEPQA-2025)
+PCB Printed Circuit Board
+PIT Product Introduction Test
+PV Photovoltaic
+PVPS Photovoltaic Pumping System
+PWM Pulse Width Modulation
+RECB Renewable Energy Certification Body
+RETL Renewable Energy Testing Laboratory
+RETS Renewable Energy Test Station
+RFID Radio Frequency Identification
+RST Random Sampling Test
+SC Short circuit
+SHS Solar Home System
+SMPS Switched Mode Power Supply
+SPV Solar Photovoltaic
+SSHS Small Solar Home System
+STC Standard Test Condition
+THD Total Harmonic Distortion
+UV Ultraviolet
+VA Volt-Ampere
+VAC AC Voltage
+VDC DC Voltage
+VRLA Valve Regulated Lead Acid Battery
+WLED White Light Emitting Diode
+v
+
+--- Page 6 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE-2025 (NEPQA-2025)
+List of Definitions
+1. A "Solar Home System" (hereinafter called SHS) is a photovoltaic system of more
+than 10Wp up to 1000Wp used for domestic and commercial purposes for providing
+primarily lighting services. Additional services such as information and entertainment
+through television sets or radios as well as fans may also be provided.
+2. A “Small Solar Home System" (hereinafter called SSHS) is a 10Wp photovoltaic
+system used for domestic purposes for providing basic lighting services and access
+to information through a small radio. It consists of WLED DC lamps, radios as well as
+outlet for mobile charging. The system can have separate charge controller and
+battery or can have an integrated charge controller and battery.
+3. An “Institutional Solar PV System” (hereafter called ISPS) is a DC or AC photovoltaic
+system used for lighting and power supply to appliances like computer, telephone,
+refrigerator, etc., in public institutions like VDC buildings, schools, health posts,
+religious buildings, clubs, etc.
+4. A “Photovoltaic Pumping System” (hereafter called PVPS) is a DC or AC photovoltaic
+water pumping system operated by photovoltaic electricity to lift water for drinking and
+drip irrigation purposes.
+5. Absorbed Glass Mat (AGM) battery: A technique for sealed lead-acid batteries. The
+electrolyte is absorbed in a matrix of glass fibers, which holds the electrolyte next to
+the plate, and immobilizes it preventing spills.
+6. Ambient Temperature: The temperature of the surrounding area.
+7. Ampere-Hour (Ah): A measure of the flow of current (in amperes) over one hour; used
+to measure and specify the capacity of the battery.
+8. Autonomy Days (N): Maximum number of consecutive days where the daily load can
+be fulfilled without charging the battery, starting the first day with a fully charged
+battery.
+9. Battery: Two or more electrochemical cells enclosed in a container and electrically
+interconnected in an appropriate series/parallel arrangement to provide the required
+operating voltage and current levels.
+10. Battery Capacity: The maximum total electrical charge, expressed in ampere-hours,
+which a battery can deliver to a load under a specific set of conditions.
+11. Battery Cycle Life: The number of cycles, to a specified depth of discharge, that a
+battery can undergo before failing to meet its specified capacity or efficiency
+performance criteria.
+12. Battery Cycle: The discharge and subsequent charge of a battery.
+13. Ballast: An electronic device that converts DC to AC and regulates and controls the
+current through a fluorescent tubular lamp.
+14. Bypass Diode: A diode connected across one or more solar cells in a photovoltaic
+module such that the diode will conduct if the cell(s) become reverse biased. It
+protects these solar such that the diode will conduct if the cell(s) become reverse
+biased. It protects these solar cells from thermal destruction in case of total or partial
+vi
+
+--- Page 7 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE-2025 (NEPQA-2025)
+shading of individual solar cells while other cells are exposed to full light.
+15. C-Rate: C-Rate refers to charge (or discharge) rate of a battery. The number indicates
+the number of hours to completely charge or discharge the battery at a constant
+current. C20 is the current draw at which the battery will last for 20 hours, C10 is the
+current at which the battery will last for 10 hour. The useful capacity of a battery
+changes depending on the discharge rate, so battery capacities are stated with
+respect to a particular rate.
+16. Charge Controller: A component of a photovoltaic system that controls the flow of
+current to and from the battery to protect it from over-charge and over-discharge.
+17. Color Rendering Index (CRI): The calculated rendered color of an object. The higher
+the CRI (based upon a 0-100 scale), the more natural the colors appear. Natural
+outdoor light has a CRI of 100.
+18. Deep-Cycle Battery: A battery that can withstand many discharges to a low state-of-
+charge.
+19. Depth of Discharge (DOD): The ampere-hours delivered from a fully charged
+battery, expressed as a percentage of rated capacity. For example, the delivered of
+20 ampere-hours from a fully charged 100 ampere-hours rated cell results in a 20%
+depth of discharge.
+20. Flooded Lead-Acid Battery: A battery containing a liquid solution of sulphuric acid and
+water.
+21. Gel-Type Battery: Lead-acid battery in which the electrolyte is composed of a silica
+gel matrix.
+22. High Voltage Disconnect: The voltage at which a charge controller will disconnect the
+photovoltaic module from the battery to prevent overcharging.
+23. Hybrid Inverter: Inverters have a built-in charge controller functionality.
+24. Innovation: An innovation refers to a product type not yet included in the current
+NEPQA version. The designation and function of the product type must be different
+from the existing ones or at least include additional features in usage to the end-user.
+25. Lead-Acid Battery: A general category that includes batteries with plates made of pure
+lead, lead-antimony, or lead-calcium immersed in an acid electrolyte.
+26. Low Voltage Disconnect (LVD): The voltage level at which a charge controller will
+disconnect the load from the battery.
+27. Lumen (lm): The SI unit of luminous flux or quantity of light and equals the amount of
+light that is spread over a square foot of surface by one candle power when all parts
+of the surface are exactly one foot from the light source.
+28. Lumens per watt (lm/W): The amount of light a light source produces for each watt of
+electricity consumed.
+29. Lux (lx): The SI unit of illuminance, or luminous flux incident on a unit area, frequently
+defined as one lumen per square meter (lm/sq.m).
+30. Open-Circuit Voltage (Voc): The maximum possible voltage across a photovoltaic
+Module at no load condition.
+vii
+
+--- Page 8 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE-2025 (NEPQA-2025)
+31. Maximum Power Current (Imp): The current at which maximum power is available
+from a PV module.
+32. Maximum Power Voltage (Vmp): The voltage at which maximum power is available
+from a PV module.
+33. Non- Subsidy Scheme: In this category, the components and systems for non-subsidy
+scheme shall be tested and certified. Any importer or manufacturer willing to test and
+certify the products from RETS falls in this category.
+34. Peak Watt: A unit used to rate the performance of solar module. Maximum nominal
+output of a photovoltaic device, in watts (Wp) under STC.
+35. Photovoltaic (PV) System: A complete set of components for converting sunlight into
+electricity by the photovoltaic process, including the array and balance of system
+36. Pulse Width Modulation (PWM): A battery charging algorithm to achieve constant
+voltage battery charging by switching the controller’s power device. In PMW
+regulation, the current from the solar array tapers according to the battery’s condition
+and recharging need.
+37. Rated Battery Capacity: The term used by battery manufacturers to indicate the
+maximum amount of energy that can be withdrawn from a battery under specified
+discharge rate and temperature.
+38. Reverse Leakage Current Protection: Protection in charge controller for preventing
+unwanted current flow from the battery to the PV module (usually at night).
+39. Sealed Battery: A battery with a captive electrolyte and a resealing vent cap, also
+called a valve-regulated battery. Electrolyte cannot be added.
+40. Self-Discharge: The rate at which a battery, without load, will discharge.
+41. Short-Circuit Current (Isc): The current flowing freely through an external circuit that
+has no load or resistance; the maximum current possible.
+42. Solar Home System: A "Solar Home System" (hereinafter called SHS) is a
+photovoltaic system used for providing primarily lighting services.
+43. Specific Gravity: The ratio of the weight of the solution to the weight of an equal
+volume of water at a specified temperature.
+2
+44. Standard Test Conditions (STC): Standard Test Condition is defined as 1,000 W/m
+0
+solar radiations in the plane of the array, 1.5 air-mass ratios and 25 C cell
+temperature.
+45. State-of-Charge (SOC): The available capacity remaining in the battery, expressed
+as a percentage of the rated capacity.
+46. Subsidy Scheme: The components and systems to be installed under government
+subsidy scheme through AEPC as per the guidelines of subsidy delivery mechanism
+shall be tested and certified under this category.
+47. Third party: Testing and Certification Institution duly accredited by the authorized
+entity of the government.
+48. Voltage at Maximum Power (Vmp): The voltage at which maximum power is available
+from a photovoltaic module.
+viii
+
+--- Page 9 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE-2025 (NEPQA-2025)
+49. Solar Inverter: Solar inverter converts the variable direct current (DC), having single
+or multiple input supplies, into a utility frequency alternating current (AC) that can be
+fed into a commercial electrical grid or used by a local, off-grid electrical network.
+ix
+
+--- Page 10 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE-2025 (NEPQA-2025)
+Content
+1 Specifications for Core Components of Solar Photovoltaic System ...................................................1
+1.1 PV Module ................................................................................................................................. 1
+1.1.1 General Requirements ....................................................................................................... 1
+1.1.2 Required Documents ......................................................................................................... 1
+1.1.3 Technical Requirements .................................................................................................... 2
+1.2 Battery ....................................................................................................................................... 3
+1.2.1 General Requirements ....................................................................................................... 3
+1.2.2 Required Documents ......................................................................................................... 3
+1.2.3 Technical Requirements .................................................................................................... 4
+1.3 Charge Controller ..................................................................................................................... 5
+1.3.1 General Requirements ....................................................................................................... 5
+1.3.2 Required Documents ......................................................................................................... 5
+1.3.3 Technical Requirements .................................................................................................... 6
+1.4 PV Inverter or Grid Connected Inverter .................................................................................. 8
+1.4.1 General Requirements ....................................................................................................... 8
+1.4.2 Required Documents ......................................................................................................... 8
+1.4.3 Technical Requirements .................................................................................................... 8
+1.5 Battery Inverter ....................................................................................................................... 10
+1.5.1 General Requirements ..................................................................................................... 10
+1.5.2 Required Documents ....................................................................................................... 10
+1.5.3 Technical Requirements .................................................................................................. 10
+1.6 Lamps ...................................................................................................................................... 12
+1.6.1 General Requirements ..................................................................................................... 12
+1.6.2 Required Documents ....................................................................................................... 12
+1.6.3 Technical Requirements .................................................................................................. 12
+1.7 Pump ........................................................................................................................................ 13
+1.7.1 General Requirements ..................................................................................................... 13
+1.7.2 Required Documents ....................................................................................................... 13
+1.7.3 Technical Requirements .................................................................................................. 14
+1.8 Street Light .............................................................................................................................. 15
+1.8.1 General Requirements ..................................................................................................... 15
+1.8.2 Required Documents ....................................................................................................... 15
+1.8.3 Technical Requirements .................................................................................................. 15
+2 Testing of Integrated Solar PV System Products ............................................................................. 17
+3 RETS Testing Procedure ................................................................................................................. 17
+4 Procedures for Innovations Entering the Market .............................................................................. 17
+x
+
+--- Page 11 of 31 ---
+1 Specifications for Core Components of Solar
+Photovoltaic System
+1.1 PV Module
+1.1.1 General Requirements
+The PV module must be of Crystalline Silicon or Thin film Type.
+1.1.2 Required Documents
+i. The PV module test certificates from IEC accredited laboratory must be provided
+according to:
+a) The PV modules must have and IEC 61215-2:2021: Terrestrial photovoltaic (PV)
+modules - Design qualification and type approval – Part 1: Test requirements and
+Part 2: Test procedures
+b) The PV modules must have IEC61730-1:2016, IEC 61730-2:2016 - Photovoltaic
+(PV) module safety qualification - Part 1: Requirements for construction and Part 2:
+Requirements for testing
+c) The PV modules must have IEC 61215-1-2:2021 - Terrestrial Photovoltaic (PV)
+Modules - Design qualification and type approval – Part 1-2: Special requirements
+for testing of thin film based photovoltaic (PV) modules
+d) The PV modules must have IEC62804-1:2015- Photovoltaic (PV) Modules – Test
+methods for the detection of potential induced degradation - Part 1: Crystalline silicon
+(For PV Module above 350Wp) IEC 61215-1:2021
+e) The PV modules must have IEC 61701:2020 – Photovoltaic (PV) Modules – Salt mist
+corrosion testing (For PV module above 350Wp)
+f) The PV modules must have IEC 62716:2013 – Photovoltaic (PV) Modules - Ammonia
+corrosion testing (For PV module above 350Wp)
+The PV Module must be certified by Certification Body Testing Laboratory (CBTL) or
+Renewable Energy Testing Laboratory (RETL) or National Certification Body (NCB)
+or Renewable Energy Certification Body (RECB) enlisted in the IECEE website or
+IECRE website. The enlisted CBTL or RETL or NCB or RECB must have Scope of
+PV Module Testing for IEC 61215, IEC 61730.
+ii. A letter provided by principal PV Module manufacturer in their letter head stating the
+warranty period for their PV module.
+iii. Catalogue and technical datasheet of PV Module.
+1
+
+--- Page 12 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE (NEPQA) 2025
+1.1.3 Technical Requirements
+i. The Crystalline PV module must have positive power tolerance within 0 to +20% up to
+100Wp, 0 to +10% greater than 100Wp to 200Wp and 0 to +3% above 200Wp and
+within 0 to +5% for Thin Film type.
+ii. The maximum power voltage (Vmp) of the PV modules to be used for 12V systems
+must be at least 17.5 V at STC.
+iii. The module efficiency for crystalline module must be at least 14% up to 150Wp, at
+least 18% for above 150Wp to 350Wp and at least 21% for above 350Wp. The
+module efficiency for thin film module must be at least 14%.
+iv. Crystalline PV modules must have inbuilt bypass diodes. The junction box must have
+at least IP65 protection according to IEC 60529.
+v. For Crystalline Module up to 150Wp, the Fill Factor (FF) must be at least 70%.
+For Crystalline Module above 150Wp and Thin Film Module, the Fill Factor must be
+at least 75%.
+vi. The PV connector type supplied by the module manufacturer or approved by the
+module manufacturer must be used and must comply with IEC 62852. Degree of
+protection at least IP67 according to IEC 60529.
+vii. The serial number must be laminated inside the glass of the PV Module.
+viii. The warranty of the module must be as follows.
+For Crystalline Module up to 150Wp,
+The Product Warranty must be minimum 5 years
+The Power Output Warranty must be:
+10 years: ≥ 90% of STC Power
+25 years: ≥ 80% of STC Power
+For Crystalline Module above 150Wp and Thin Film Module,
+The Product Warranty must be minimum 10 years
+The Power Output Warranty must be:
+first year: ≥ 97% of STC power
+10 years: ≥ 90% of STC Power
+25 years: ≥ 80% of STC Power
+and linear warranty ≤ 0.8% per year from year 2 and onwards
+ix. The PV module must be provided with nameplate label consisting of indelible
+markings at the back of module. The nameplate must contain the following
+information.
+a) Nominal Power in Wp
+b) Name of the manufacturer
+c) Brand, Model and Type
+d) Voltage at maximum power
+2
+
+--- Page 13 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE (NEPQA) 2025
+e) Current at maximum power
+f) Open circuit voltage
+g) Short circuit current
+h) Maximum System Voltage
+1.2 Battery
+1.2.1 General Requirements
+The battery must be a deep cycle type and of following category.
+i. Lead Acid Battery: Flooded Tubular or Vented Tubular
+ii. Valve Regulated Lead Acid Battery: Tubular
+iii. Lithium Ion (Li-Ion)
+Note: AEPC will promote new innovations and technology in batteries. Such batteries shall
+be tested as per the manufacturer's claim and test procedures.
+1.2.2 Required Documents
+i. The Battery test certificates/reports from IEC accredited laboratory must be
+provided according to:
+a) IEC 61427-1:2013 - Secondary cells and batteries for renewable energy
+storage – General requirements and methods of test – Part 1: Photovoltaic off-
+grid applications.
+However, for 2V VRLA Gel Tubular Batteries, the following standards shall
+apply:
+IEC 60896-21:2004 – Stationary lead-acid batteries – Part 21: Valve-regulated
+types – Testing methods.
+IEC 60896-22:2004 – Stationary lead-acid batteries – Part 22: Valve-regulated
+types – Requirements.
+b) IEC 61427-2:2015- Secondary cells and batteries for renewable energy storage
+– General requirements and methods of test – Part 2: Photovoltaic on-grid
+applications
+c) IEC 60896-11:2002 - Stationary lead-acid batteries - Part 11: Vented types -
+General requirements and methods of tests for 2V Flooded Tubular Battery
+d) IEC 62619:2022 - Secondary cells and batteries containing alkaline or other non-
+acid electrolytes - Safety requirements for secondary lithium cells and batteries,
+for use in industrial applications (including battery pack)
+The Battery must be certified by Certification Body Testing Laboratory (CBTL) or
+Renewable Energy Testing Laboratory (RETL) or National Certification Body (NCB)
+or Renewable Energy Certification Body (RECB) enlisted in the IECEE website or
+IECRE website.
+In case of domestic products the manufacturer must provide a declaration of
+equivalency with the above-mentioned test certificate/ test reports.
+3
+
+--- Page 14 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE (NEPQA) 2025
+ii. In case of local battery manufacturer, document stating warranty period and after
+sales services has to be provided in their letter head signed and stamped by
+authorized person.
+iii. Catalogue and technical datasheet of Battery.
+1.2.3 Technical Requirements
+i. The life cycle of battery must be of at least
+a) 1,200 cycles at 80% DoD for 12V Flooded Lead Acid battery and 12V VRLA
+Lead Acid Battery
+b) 1,500 cycles at 80% DoD for 2V Flooded and 2V VRLA Gel Lead Acid battery
+c) 800 cycles at 80% DoD for 2V VRLA AGM Lead Acid battery
+d) 3,000 cycles at 80% DoD for Lithium-Ion battery. For battery packs with
+capacities below 2 kWh, 2,000 cycles at 80% DoD shall be accepted.
+ii. The battery must have positive capacity tolerance of 0 to +20% within 5 cycles of
+test.
+iii. Battery C-Rate must be at least
+a) 0.1C for Lead Acid Battery
+b) 0.2C for Lithium Ion Battery.
+iv. The serial number must be engraved/screen printed on the outer surface of the
+battery for Lead Acid Battery.
+v. For Lithium-Ion batteries, a Battery Management System (BMS) must be included by
+the battery manufacturer to ensure safety protection (voltage, current and
+temperature control at cell level). Safety protection against thermal runaway, over
+charging and over discharging shall be ensured by the battery manufacturer.
+vi. A flooded type battery must have electrolyte level indicator.
+vii. The round-trip efficiency must be at least 85%.
+viii. The warranty of the battery must be of at least:
+a) 3 years for 12V Flooded Lead Acid Battery and 12V VRLA Lead Acid Battery
+b) 5 years for 2V Flooded and 2V VRLA Gel Tubular Lead Acid Battery
+c) 3 years for 2V VRLA AGM Lead Acid Battery
+d) 5 years for Lithium Ion-Battery with BMS
+ix. For lead acid battery, the following minimum information must be included on the
+label of the battery and the label must be printed on the battery. The label must
+contain the following information.
+a) Name of the manufacturer
+4
+
+--- Page 15 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE (NEPQA) 2025
+b) Brand, Model and Type
+c) Rated capacity in Ampere-hours at the discharge rate
+d) Nominal voltage
+x. For Lithium Ion, the following information must be included on the label of the battery
+and the label must be printed on the battery. The label must contain the following
+information:
+a) Name of the manufacturer
+b) Brand, Model and Type
+c) Rated capacity
+d) Nominal voltage
+e) Serial number
+1.3 Charge Controller
+1.3.1 General Requirements
+The Charge Controller must be of following category.
+i. PWM Charge Controller: 12V/24V/48V for capacity < 20A
+ii. MPPT Charge Controller
+1.3.2 Required Documents
+i. The Charge Controller must be manufactured in compliance with the provision 1.3.3
+and must be declared by the manufacturer for the capacity ≤ 3kW
+ii. For the Charge Controller capacity > 3kW, the controller test certificate from IEC
+accredited laboratory must be provided according to IEC 62109-1:2010 - Safety of
+power converters for use in photovoltaic power systems - Part 1: General
+requirements. The Charge Controller must be certified by Certification Body Testing
+Laboratory (CBTL) or Renewable Energy Testing Laboratory (RETL) or National
+Certification Body (NCB) or Renewable Energy Certification Body (RECB) enlisted
+in the IECEE website or IECRE website. The enlisted CBTL or RETL or NCB or RECB
+must have Scope of Charge Controller Testing. In case of in-built charge controller,
+inverter certification shall be valid.
+iii. In case of local charge controller manufacturer, it has to provide document stating
+warranty period for their charge controller in their letter head signed and stamped by
+authorized person.
+iv. Catalogue and technical datasheet of Charge Controller.
+5
+
+--- Page 16 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE (NEPQA) 2025
+1.3.3 Technical Requirements
+i. The Charge Controller must have deep discharge protection and must be compatible
+to the battery type used. For Lithium Ion, deep discharge protection shall be managed
+by BMS.
+ii. Low Voltage Disconnection (LVD) for lead acid batteries must not be less than 11.4V
+for 12V system and 11.4X, V for 12X, V system voltage. Where X is a natural number
+with the same value. For 6V system, the LVD must not be less than 5.7V. Setting
+point must be within +/- 2% at 25°C.
+iii. Low Voltage Reconnection (LVR) must not be less than 12.5V for 12V system and
+12.5X, V for 12X, V system voltage. Where X is a natural number with the same value.
+For 6V system the LVR must not be less than 6.25V. Setting point must be within +/-
+2% at 25°C. Charge controller designed for Lithium Ion, LVR is not applicable.
+iv. High Voltage Disconnection (HVD) must be within the range of (14V-15V)X, Volt for
+12X, Voltage system. HVD should be below 15X, V for flooded lead acid batteries and
+below (14- 14.1)X, V for VRLA Gel and AGM batteries. For 6V, VLRA batteries, the
+HVD must be within the range of (7.0 – 7.05)V. For Lithium Ion battery, HVD must be
+at 4.2X, V for X number of 3.7 V cells Lithium Cobalt Oxide (LiCoO ) in series and
+2
+3.6X, V for X number of 3.2V cells Lithium Ferrous Phosphate(LiFePO ) in series.
+4
+Setting point must be within +/-2% of Manufacturer’s claim at 25°C. Other than above
+mentioned voltage system for Lithium Ion, the HVD must be in the range of 13% to
+21%higher than nominal voltage. Where X is a natural number with the same value.
+v. Usage of electro-mechanical relays is not permitted.
+vi. The charge controller to be used in street lights must have at least 3 stages of
+dimming functionality.
+vii. The Charge Controller must include
+a) Protection against reverse polarity must be provided in both the PV module and
+battery sides.
+b) Short circuit protection on load side must be provided.
+c) Over current protection on the load side and surge protection on module side
+must be provided.
+viii. The allowable Printed Circuit Board (PCB) for solar charge controllers is
+a) Glass epoxy
+b) Metal core printed circuit board (MCPCB)
+ix. The charge controller enclosure must have at least IP20 protection according to IEC
+60529.
+x. Charge controller up to 10A capacity must have an inbuilt connected switched mode
+power supply (SMPS) based mobile charging point with an efficiency of at least 80%.
+xi. The efficiency of the PWM charge controller must be at least 90% and MPPT charge
+controller must be at least 95%.
+xii. For PWM based controllers, the quiescent current consumption must not exceed
+a) 20mA at nominal voltage (the non-critical indicators are turned off) for charge
+controller sized up to 20A.
+6
+
+--- Page 17 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE (NEPQA) 2025
+b) 25mA at nominal voltage (LCD Display) for charge controller sized up to 20A.
+xiii. For MPPT based controllers, the quiescent current consumption must not exceed
+a) 25mA at nominal voltage (the non-critical indicators are turned off) for charge
+controller sized up to 20A.
+b) 35mA at nominal voltage (LCD Display) for charge controller sized up to 20 A.
+c) 40mA at nominal voltage for CC (LED indicators) above 20A and up to 60A and
+60mA at nominal system voltage for CC (LCD display) above 20A and up to 60A.
+d) 100mA at nominal voltage for CC above 60A.
+xiv. For MPPT charge controller having no load terminal, only charging side parameters
+will be tested.
+xv. The warranty of the charge controller must be of at least:
+a) 3 years for controllers with capacities up to 60A
+b) 5 years for controllers with capacities above 60A
+xvi. For PWM charge controller, the following information must be included on the label
+of the controller. The label must contain the following information:
+a) Name of the Manufacturer
+b) Brand, Model and Type
+c) Rated capacity
+d) Nominal voltage
+e) Serial Number
+f) Input current
+g) Load current (not applicable for charge controller having no load terminal)
+xvii. For MPPT charge controller, the following information must be included on the label
+of the controller. The label must contain the following information:
+a) Name of the Manufacturer
+b) Brand, Model and Type
+c) Rated capacity
+d) Voltage range
+e) Serial Number
+f) Maximum wattage
+7
+
+--- Page 18 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE (NEPQA) 2025
+1.4 PV Inverter or Grid Connected Inverter
+1.4.1 General Requirements
+The PV inverter or Grid connected inverter should match voltage, frequency, phase angle
+and phase sequences of National Grid or Mini Grid System. The PV inverter shall also in
+house MPPT (Maximum Power Point Tracker), an interface between Solar PV array & the
+Inverter. The MPPT quality standard should match with the requirements applicable to
+Section 1.3.3.
+The inverter generated total harmonic distortion (THD), flicker, DC injection limits, Voltage
+Range, Frequency Range, Power Factor Range and Anti-Islanding measures at the point
+of connection to the utility services should follow the latest Grid Code of Nepal Electricity
+Authority.
+1.4.2 Required Documents
+i. The PV Inverter test certificates from IEC accredited laboratory must be provided
+according to:
+a) IEC 61727:2004 - Photovoltaic (PV) Systems: Characteristics of Utility Interface
+b) IEC 62116:2014 - Utility-interconnected photovoltaic inverters - Test procedure
+of islanding prevention measures
+c) IEC 62891:2020: Maximum power point tracking efficiency of grid-connected
+photovoltaic inverters
+d) IEC 62109-1:2010 & IEC 62109-2:2011 - Safety of power converters for use in
+photovoltaic power systems - Part 1: General requirements and Part 2:
+Particular requirements for inverters
+The Inverter must be certified by Certification Body Testing Laboratory (CBTL) or
+Renewable Energy Testing Laboratory (RETL) or National Certification Body
+(NCB) or Renewable Energy Certification Body (RECB) enlisted in the IECEE
+website or IECRE website. The enlisted CBTL or RETL or NCB or RECB must have
+Scope of PV Inverter Testing.
+ii. A local importer must provide a document of agreement between the local importer
+and the principal inverter manufacturer, signed and stamped by authorized persons
+stating the warranty period for their PV inverter.
+iii. Catalogue and technical datasheet of PV Inverter.
+1.4.3 Technical Requirements
+i. The Inverter must have a rated AC output voltage of
+a) Three Phase 400±10% VAC (L-L),
+b) Single Phase 230±10% VAC (L-N)
+ii. The output frequency of the inverter must be 50Hz ± 2.5%.
+8
+
+--- Page 19 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE (NEPQA) 2025
+iii. The efficiency of MPPT input must be at least 95%.
+iv. The efficiency of inverter must be at least 95% for up to 5kVA inverters and at least
+97% for above 5kVA inverters for transformer less topology.
+v. The euro efficiency of inverter must be at least 94% for up to 5kVA inverters and at
+least 96% for above 5kVA inverters for transformer less topology. The efficiency
+curve of efficiency Vs power output must be provided.
+vi. The efficiency of inverter must be at least 90% for transformer topology.
+vii. The no load loss must be less than 0.5% of rated power for transformer less topology.
+viii. The no load loss must be less than 1.5% of rated power for transformer topology.
+ix. The total harmonic distortion (THD) must be less than 5% at full load.
+x. The inverter must maintain the power factor greater than 0.99 (>0.99) at nominal
+power and adjustable range between 0.8 leading to 0.8 lagging.
+xi. The inverter must have at least IP65 protection according to IEC 60529.
+xii. The inverter must have to built-in meter and data logger to monitor system
+performance through external user interface.
+xiii. The inverter must have internal protection against DC reverse polarity, sustained or
+momentary fault in National Grid/Mini Grid and against the lightning on feeder.
+xiv. The inverter shall be capable of complete automatic operation including wake-up,
+synchronization & shutdown.
+xv. The inverter must have either cooling system with fan or appropriate heat sink to
+avoid excessive heating.
+xvi. The warranty of the PV inverter must be at least 5 years.
+xvii. The following minimum information must be included on the label of the inverter. The
+label must contain the following information.
+a) Name of the manufacturer
+b) Brand, Model and Type
+c) Rated Power in Watt or VA
+d) Input and output voltage in Volt and Frequency in Hz
+e) Maximum Input Voltage
+f) MPPT Voltage Range
+g) Serial Number
+9
+
+--- Page 20 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE (NEPQA) 2025
+1.5 Battery Inverter
+1.5.1 General Requirements
+The Battery Inverter must be compatible with Lead Acid Battery or Lithium Ion Battery or
+any other battery types recommended by the manufacturer. The inverter must be of
+following type.
+i. Stand-alone or Off-grid Inverter (DC-AC Inverter)
+ii. Hybrid Inverter
+iii. Bidirectional Inverter
+1.5.2 Required Documents
+i. The Stand-alone Inverter must be manufactured in compliance with the provision
+1.5.3 and the statement must be declared by the manufacturer.
+ii. The Hybrid Inverter must be manufactured in compliance with the provision 1.5.3 and
+the statement must be declared by the manufacturer.
+iii. The Bidirectional Inverter must be manufactured in compliance with the provision
+1.5.3 and the statement must be declared by the manufacturer for inverter capacity
+up to 3kVA.
+iv. For the bidirectional inverter capacity above 5kVA, the inverter test certificate from
+IEC accredited laboratory must be provided according to IEC 62109-1:2010 - Safety
+of power converters for use in photovoltaic power systems - Part 1: General
+requirements.
+The Bidirectional Inverter must be certified by Certification Body Testing Laboratory
+(CBTL) or Renewable Energy Testing Laboratory (RETL) or National Certification
+Body (NCB) or Renewable Energy Certification Body (RECB) enlisted in the IECEE
+website or IECRE website. The enlisted CBTL or RETL or NCB or RECB must have
+Scope of Battery Inverter Testing.
+v. A local importer must provide a document of agreement between the local importer
+and the principal inverter manufacturer, signed and stamped by authorized persons
+stating the warranty period for their battery inverter. In case of local inverter
+manufacturer, it has to provide document stating warranty period for their battery
+inverter in their letter head signed and stamped by authorized person.
+vi. Catalogue and technical datasheet of Battery Inverter.
+1.5.3 Technical Requirements
+i. The Inverter must have a rated AC output voltage of
+a) Three Phase 400±10% VAC (L-L),
+b) Single Phase 230 ±10% VAC (L-N)
+ii. The Output frequency of the inverter must be 50Hz ± 2.5%.
+10
+
+--- Page 21 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE (NEPQA) 2025
+iii. The efficiency of inverter must be at least 85% at full load at nominal voltage with
+transformer topology and must be at least 90% at full load at nominal voltage with
+transformer less topology.
+iv. The efficiency when operating loads at power levels between 40% to 90% of the rated
+load must be greater than 90% for transformer less topology.
+v. The efficiency when operating loads at power levels between 40% to 90% of the rated
+load must be greater than 80% for transformer topology.
+vi. The no load loss must be less than 1% of rated power for transformer less topology.
+vii. The no load loss must be less than 2% of rated power with transformer topology.
+viii. The total harmonic distortion (THD) must be less than 5% at full load.
+ix. The inverter must maintain the power factor between 0.8 Lagging to 0.8 Leading.
+x. The inverter must have at least IP21 protection according to IEC 60529.
+xi. The inverter must not produce noise more than 60db at 2meter distance.
+xii. Hybrid Inverter must have solar charging priority.
+xiii. Inverter or Inverter circuits must include
+a) Low battery shut down must be at battery voltage not less than 10.5V for lead
+acid battery in case of 12V systems. For 24V or 48V systems low battery shut
+down voltage must be 10.5 x N, V. Here N stands for the number of 12 V batteries
+in a series connection.
+b) Reverse polarity protection on DC input terminals.
+c) Short Circuit protection of the output terminals.
+d) Appropriate indicators main, charging, inverter ON, short circuit and overload.
+xviii. The inverter must have either cooling system with fan or appropriate heat sink to
+avoid excessive heating.
+xix. Inverter must be capable of operating safely for at least 2 seconds at 150% of rated
+power.
+xx. For Inverter with inbuilt charge controller, the charging side of charge controller will
+be tested as per provision stated in charge controller section and load side
+parameters of charge controller will not be tested.
+xxi. The warranty for the battery inverter must be at least:
+a) 3 years for capacity up to 5kVA
+b) 5 years for capacity above 5kVA
+xxii. The following minimum information must be included on the label of the inverter. The
+label must contain the following information.
+a) Name of the manufacturer
+b) Brand and Model
+11
+
+--- Page 22 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE (NEPQA) 2025
+c) Rated Power in Watt or VA
+d) Input and output voltage in Volt and Frequency in Hz
+e) Serial Number
+1.6 Lamps
+1.6.1 General Requirements
+The Lamp must be Light Emitting Diode (LED) Lamp and must be DC or AC type.
+1.6.2 Required Documents
+i. A letter provided by principal lamp manufacturer in their letter head mentioning the
+operational life of the lamp to be at least 30,000 hours.
+ii. A local importer must provide a document of agreement between the local importer
+and the principal lamp manufacturer, signed and stamped by authorized persons
+stating the warranty period for their lamp. In case of local lamp manufacturer, it has
+to provide document stating warranty period for their lamp in their letter head signed
+and stamped by authorized person.
+iii. A local manufacturer or local importer must provide a LED Manufacturer test reports
+as per LM 80 (IES Approved Method for Measuring Lumen Maintenance of LED Light
+Sources) from IEC accredited laboratory.
+iv. Catalogue and technical datasheet of Lamp and Individual LED
+1.6.3 Technical Requirements
+i. The rated power of Lamp must have power tolerance of +/-10%.
+ii. A viewing angle of individual LED must be equal to or greater than 2*60 degree.
+iii. The Luminous Efficacy of individual LED must be at least 130 Lumen/Watt for Cool
+Light and at least 110 Lumen/Watt for Warm Light.
+iv. The lamp driver circuit efficiency with constant power driver must be at least 85%.
+v. The Color Rendering Index (CRI) of the individual LED must be at least 80 for
+Day/Cool Light and at least 70 for Warm Light.
+vi. The correlated color temperature (CCT) must be:
+a) Warm Light: 2500K to 4000K
+b) Day/Cool Light: >4000K to 6500K
+vii. The LED bulb must have diffuser with anti-glare properties other than warm light.
+viii. Luminous efficacy or Luminous yield of lamp must not differ by more than 5% from
+the initial value after burning for 200 continuous hours under constant current source.
+ix. The Luminous Efficacy of Lamp must be
+12
+
+--- Page 23 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE (NEPQA) 2025
+a) Warm Light: at least 85 Lumen/watt.
+b) Cool Light: at least 100 Lumen/Watt.
+x. The power factor for AC Lamp must be at least 0.9 Lagging.
+xi. The lamp enclosure must have at least IP20 protection according to IEC 60529.
+xii. The lamp must be protected against reverse polarity for DC Lamp.
+xiii. A heat-sink must be of metal or of equivalent materials and connected using a
+suitable heat-transfer material.
+xiv. The surface temperature of the LEDs lamp must remain below 50⁰C during operation.
+xv. The warranty of the Lamp must be of at least 3 years.
+xvi. The AC Lamp must have good working capability for voltage range from 190V to
+270V.
+xvii. The total harmonic distortion (THD) of AC Lamp must be less than 5%.
+xviii. The following minimum information must be included on the label of the lamp and
+the label must be printed on the lamp. The label must contain the following
+information.
+a) Brand
+b) Nominal power in Watt
+c) Nominal voltage
+d) Color Temperature
+e) Serial Number
+1.7 Pump and Pump Controller
+1.7.1 General Requirements
+The Pump must be Submersible or Surface and of following category.
+i. DC Pump
+ii. AC Pump
+1.7.2 Required Documents
+i. One of the products of the Pump Manufacturer must have at least one of the
+following Certificates of Conformity, issued by an IEC-accredited laboratory,
+provided in accordance with:
+IEC 62253:2011 - Photovoltaic pumping systems - Design qualification and
+performance measurements.
+IEC 61000-6-1:2016- Electromagnetic compatibility (EMC) - Part 6-1: Generic
+13
+
+--- Page 24 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE (NEPQA) 2025
+standards - Immunity standard for residential, commercial, and light-industrial
+environments.
+IEC 62109-3:2020-Safety of power converters for use in photovoltaic power
+systems - Part 3: Particular requirements for electronic devices in combination with
+photovoltaic elements
+IEC 60335-1:2020- Household and similar electrical appliances - Safety - Part 1:
+General requirements
+The Solar Pump must be certified by Certification Body Testing Laboratory (CBTL)
+or Renewable Energy Testing Laboratory (RETL) or National Certification Body
+(NCB) or Renewable Energy Certification Body (RECB) enlisted in the IECEE
+website or IECRE website.
+A local importer must provide a document of agreement between the local importer
+and the principal pump manufacturer, signed and stamped by authorized person
+stating the warranty period for their pump.
+ii. Catalogue and technical datasheet of Pump and Pump Controller.
+1.7.3 Technical Requirements
+i. The pump motor combined efficiency must be at least 50%. The pump performance
+curve (flow vs. power at rated head) must be provided.
+ii. The motor shall be brushes or brushless DC motor.
+iii. The pump set must have Maximum Power Point Tracker (MPPT) to optimally use
+the solar power and maximize the water discharge.
+iv. The efficiency of MPPT must be at least 95%.
+v. The pump set (Pump and Motor) must have at least IP68 protection for
+Submersible Pump and at least IP65 protection for Surface Pump according to IEC
+60529.
+vi. The pump controller and switch box must have at least IP65 protection according to
+IEC 60529.
+vii. The pump controller or pump set must include protection against:
+a) Dry run
+b) Insufficient power
+c) Reverse polarity
+d) Short circuit
+e) Over temperature
+f) Surge
+viii. The pump must be manufactured with non-corrosive materials. Ceramic or
+equivalent non corrodible materials must be used for bearings. Pump body, rotors
+and impellers must be made of stainless steel with a minimum grade of AISI 304 or
+14
+
+--- Page 25 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE (NEPQA) 2025
+higher.
+xix. The warranty must be at least:
+a) 3 years for Pump Set
+b) 3 years for Pump Controller
+xx. The following minimum information must be included on the label of the pump and
+the label must be printed on the pump. The label must contain the minimum following
+information.
+a) Name of the manufacturer
+b) Brand, Model and Type
+c) Rated Flow
+d) Rated Head
+e) Serial Number
+f) Nominal Power
+1.8 Street Light
+1.8.1 General Requirements
+The Lamp must be Light Emitting Diode (LED) Lamp and must be DC or AC type.
+1.8.2 Required Documents
+i. A letter provided by principal lamp manufacturer in their letter head mentioning the
+operational life of the lamp to be at least 50,000 hours.
+ii. A local importer must provide a document of agreement between the local importer
+and the principal street light manufacturer, signed and stamped by authorized
+persons stating the warranty period for their street light. In case of local light
+manufacturer, it has to provide document stating warranty period for their street light
+in their letter head signed and stamped by authorized person.
+iii. A local manufacturer or local importer must provide a LED Manufacturer test reports
+as per LM80 (IES Approved Method for Measuring Lumen Maintenance of LED Light
+Sources) from IEC accredited laboratory.
+iv. Catalogue and technical datasheet of Street Lamp and Individual LED.
+1.8.3 Technical Requirements
+i. The rated power of Street Light must have power tolerance of +/- 5%.
+ii. A viewing angle of individual LED must be at least 2*60 degree.
+iii. The Luminous Efficacy of individual WLED must be at least 140 Lumen/Watt.
+15
+
+--- Page 26 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE (NEPQA) 2025
+iv. The luminance must be at least 0.5 Lux/Watt at the ground at the height of 9 meters.
+v. The lamp driver circuit efficiency with constant power driver must be at least 90%
+with three stage control mode.
+vi. The Color Rendering Index (CRI) of the individual LED must be at least 80 for Cool
+Light and at least 70 for Warm Light.
+vii. The color temperature must be:
+a) Warm Light: 2500K to 4000K
+b) Day/Cool Light: >4000K to 6500K
+viii. The Luminous Yield of Lamp must be
+a) Warm Light: at least 100 Lumen/watt
+b) Day/Cool Light: at least 120 Lumen/watt
+ix. The power factor for AC Street Lamp must be at least 0.9 Lagging.
+x. The light enclosure must have at least IP66 protection according to IEC 60529.
+xi. The Street Light must be protected against reverse polarity for DC type.
+xii. A heat-sink must be of metal or of equivalent materials and connected using a
+suitable heat-transfer material.
+xiii. The surface temperature of the light must remain below 50⁰C during operation.
+xiv. The warranty of the Street Light must be of at least 5 years.
+xv. The total harmonic distortion (THD) of AC Street Light must be less than 5%.
+xvi. The AC Street Light must have day/night sensor and surge protection device.
+xvii. The AC Street Light must have good working capability for voltage range from 190V
+to 270V.
+xxi. The following minimum information must be included on the label of the light. The
+label must contain the following information.
+a) Name of the manufacturer
+b) Brand, Model and Type
+c) Nominal power in Watt
+d) Nominal voltage
+e) Color Temperature
+f) Lumen Output
+g) Serial Number
+16
+
+--- Page 27 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE (NEPQA) 2025
+2 Testing of Integrated Solar PV System Products
+Integrated products that compromise a set of solar PV components housed in a single unit
+shall be tested as one product, following specifications of the integrated components.
+3 RETS Testing Procedure
+The Renewable Energy Test Station (RETS) is authorized to carry out the quality test of the
+Solar Photovoltaic system and its components and issue the certificate.
+4 Procedures for Innovations Entering the Market
+For new and innovative products of Solar PV system (see definition “innovation”), the
+manufacturer or importer shall provide third party quality certificate issued from accredited
+national or international laboratory. The manufacturer or the importer must provide the detailed
+contact of the manufacturer and the certifying laboratory, so that RETS can contact and
+request for suitable testing procedures cross-checking them with international standards.
+RETS will upgrade the test facilities and develop procedures in order to test and verify the
+specification claimed by the manufacturer and observe its operation and issue the observation
+Certificate.
+17
+
+--- Page 28 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE (NEPQA) 2025
+Annex 1. Additional restrictions for Subsidized PV system components
+a) Thin Film solar modules are not acceptable in SSHS.
+b) For SSHS, the battery can be rechargeable Nickel Metal Hydride (Ni-
+MH) or Lithium Ion (Li-Ion).
+18
+
+--- Page 29 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE (NEPQA) 2025
+Minimum Required Standard of PV System Components (Less than 10Wp)
+1.1 PV Module
+1.1.1 Required Documents
+1. A letter provided by PV manufacturer in their letter head stating the warranty period of the
+PV Module. The warranty period of Solar PV Module must be at least 10 years against
+maximum 10% reduction in output power at STC.
+2. The larger size PV module/s manufactured by the company must have IEC Certification.
+3. Catalogue and technical specification of the PV modules
+1.1.2 Technical Requirement
+1. The PV module must be of Crystalline Silicon. The rated output power and the
+maximum rated voltage of the module need to be tested and certified by Renewable
+Energy Test Station (RETS) to confirm the following requirements:
+• Deviation of maximum power from nominal values stated by the manufacturer
+must be within – 5% and +20% (minus five and plus twenty) at STC.
+• The maximum rated voltage (Vmp) of the PV modules to be used for 12V
+systems must be at least 17 V at STC. For system less than 12V, the Vmp of
+the module must be 33% higher than the system voltage at STC.
+2. A nameplate must be mounted on the PV module frame with the following details:
+• Name of the manufacturer
+• Model or Type No.
+• Maximum power in Watt Peak
+• Maximum rated voltage in Volt
+• Maximum rated current in Ampere
+1.2. Battery
+1.2.1 Required Documents
+1. A letter provided by principle battery manufacturers in their letter head mentioning the
+warranty for at least 2 years
+2. Catalogue and technical specification of the battery.
+1.2.2 Technical Requirements
+1. The battery must be rechargeable Nickel Metal Hydride (Ni-MH) or Lithium Ion (Li-Ion).
+2. The operational life cycle of Li-Ion and Ni-MH batteries must be 1000 cycles.
+3. The capacity of battery should be less than 10Ah. The Panel battery (Wp:WH) (Watt
+peak to Watt Hour) ratio should be maintained 1: (7.2-9.6).
+4. The deviation of battery capacity from its rated capacity stated by the manufacturer
+must not exceed the limit of -5% to +20% (minus 5% to plus 20%) within 5 cycles of
+test.
+5. The following minimum information must be included in the label of the battery:
+19
+
+--- Page 30 of 31 ---
+NEPAL PHOTOVOLTAIC QUALITY ASSURANCE (NEPQA) 2025
+• Rated capacity in Ampere-hours
+• Nominal voltage in Volt
+1.3 Charge Controller
+1.3.1 Required Documents
+1. A letter provided by principle manufacturers in their letter head mentioning the warranty
+for at least 2 years
+1.3.2 Technical Requirements
+1. The Charge controller must have the following settings:
+A. HVD must be at 4.2xN V for N number of 3.7 V cells for Li-Ion (LiCoO2) or Ni-
+MH cells in series.
+B. HVD must be at 3.6xN V for N number of 3.2-3.3 V (LiFePO4) cells in series.
+C. For other system voltages, HVD must be in the range of 13% to 21% higher
+than the system voltage.
+D. Setting point must be within +/- (plus minus) 2% of manufacturer claim at 250C.
+1.4 Lamp
+1.4.1 Required Documents
+2. Lamp test certificate issued by third party or
+A statement provided by WLED lamp manufacturer in their letter head describing the
+quality assurance that the lamps meet the technical requirements as defined in the
+1.4.2
+3. A letter provided by principle manufacturers in their letter head mentioning the warranty
+for at least 2 years
+1.4.2 Technical Requirements
+1. The Lamp must be of White LED(s).
+2. A viewing angle of individual WLED must be equal to or greater than 2*50 degree.
+3. The luminous Efficacy(lm/w) of individual WLED must be at least 100 Lumen/Watt
+4. WLED driver circuit efficiency must be at least 80%.
+5. Luminous Efficacy (Lm/W) of WLED lamp must not differ by more than 5 % after 200
+hours of continuous burning from its original value.
+6. The Color Rendering Index (CRI) of the WLED must not be less than 60 and the color
+temperature must be in the range of 5000°K to 6000°K.
+7. The lamp and its enclosure should display good workmanship and should provide
+protection against dust, oil, and smoke.
+1.5 Test Detail:
+For this capacity of solar system, RETS will test with the following procedures:
+• Design Verification
+20
+
+--- Page 31 of 31 ---
+• Quality testing of complete solar package and individual PV components.
+1.6 Integrated SPV Products or System having inseparable components of the
+whole PV system (Less than 5Wp only)
+1. Document Requirement
+• The importer/manufacturers must submit third party Quality Product Certificate of
+the solar package or its components, issued from the national or international
+laboratory.
+• A letter provided by principle manufacturers in their letter head mentioning the
+warranty for at least 2 years
+2. Design Consideration:
+• Li-Ion and Ni-MH batteries must have minimum 1000 cycles.
+• Insolation: 5000Wh/m2/day and autonomy day: 1
+3. Preliminary test :
+4. It includes visual screening to assess the workmanship of the mounting, fixtures,
+connection and cabling, PCB soldier joints, switches circuit, mechanical and
+electronics layout of the Solar Package and housing of the components.
+5. Design Verification by RETS in perspective of energy balance using standard practices
+6. RETS will perform testing of technical parameter of SPV system components which is
+possible with RETS facility[ PV Module capacity deviation: +20/-5%], Battery capacity
+[above claimed and -5% to+20%], Luminous Yield of lamps/LED[above claimed and -
+5%]
+7. The Lux output of lamp from 2m height must not be less than 8 Lux. (At bright mode)
+8. RETS will perform real time test against manufacturer/importer claim working hours
+and product must comply rated performance within 5 (five) cycles.
+Alternative Energy Promotion Centre
+Tahachal, Kathmandu, Nepal
+Phone: +9771-4598013, 4598014
+Email: info@aepc.gov.np
+Website: www.aepc.gov.np
+2
+https://www.aepc.gov.np

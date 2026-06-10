@@ -1,0 +1,26 @@
+# Byte-compiled / optimised
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Output files (generated — do not commit)
+output/nepal_import_draft.md
+output/analysis_data.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+## Extra
+docs/
