@@ -137,48 +137,6 @@ Make sure these three files are inside the `/dataset` folder:
 python main.py
 ```
 
-Expected console output:
-
-```
-══════════════════════════════════════════════════════════════
-  SunBridge Trading — Nepal Import Compliance Analyzer
-  Powered by LangGraph + Groq (llama-3.3-70b-versatile)
-══════════════════════════════════════════════════════════════
-
-Starting analysis pipeline...
-
-[1/6] Loading documents...
-     PDF 1 (DSS_GZES...): 12,450 chars
-     PDF 2 (188_1115):     9,820 chars
-     NEPQA 2025:           11,300 chars
-
-[2/6] Extracting information from PDF 1...
-     ✓ Extracted 21 non-empty fields
-
-[3/6] Extracting information from PDF 2...
-     ✓ Extracted 19 non-empty fields
-
-[4/6] Comparing documents and detecting conflicts...
-     ✓ Matching fields: 14  |  Conflicts found: 5
-     Product relationship: different variants
-
-[5/6] Mapping to NEPQA 2025 compliance requirements...
-     ✓ Readiness: partial  |  Missing items: 4  |  Priority gaps: 3
-
-[6/6] Generating final draft document...
-     ✓ Report and approach note generated
-
-[7/7] Saving output files...
-     ✓ output/nepal_import_draft.md
-     ✓ output/analysis_data.json
-
-══════════════════════════════════════════════════════════════
-  ✅  Analysis complete!
-══════════════════════════════════════════════════════════════
-```
-
----
-
 ## Output Files
 
 | File | Purpose |
@@ -228,11 +186,3 @@ Approach Note          ← plain-English summary of how this was prepared
 | Environment | python-dotenv |
 
 ---
-
-## Client Brief (Context)
-
-This project responds to a request from Ramesh at SunBridge Trading, Kathmandu:
-
-> *"The manufacturer sent two PDFs. They may be for slightly different variants — we are not 100% sure. Some numbers appear in both, sometimes worded differently. We need something we can share with the agent for review."*
-
-The tool treats this email as its product requirement: produce something honest, readable, and actionable for a non-technical importer dealing with messy cross-border paperwork.
