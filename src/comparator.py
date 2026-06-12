@@ -16,7 +16,6 @@ from langchain_core.messages import HumanMessage, SystemMessage
 from src.utils import parse_llm_json
 
 
-
 ## system prompt and user prompt template for the comparison node
 _SYSTEM = """You are a compliance analyst who verifies consistency across \
 manufacturer documents for solar inverter imports.
